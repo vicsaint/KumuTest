@@ -7,9 +7,11 @@ DB_PORT=3306
 DB_DATABASE=kumu
 DB_USERNAME=root
 DB_PASSWORD=
-4. After that you may open http://localhost/kumutest/ welcome page and may click Login or Register
-5. http://localhost/kumutest/login this login page, github oauth is integrated in the login
-6. http://localhost/kumutest/register this is registration page
+4. Run composer update
+5. After that you may open http://localhost/kumutest/ welcome page and may click Login or Register
+6. http://localhost/kumutest/login this login page, github oauth is integrated in the login
+7. http://localhost/kumutest/register this is registration page
+8. After successful login you will be redirected to the Dashboard, at Dashboard you can run search of Github Usernames or 10 Listings of Github users.
 
 
 
