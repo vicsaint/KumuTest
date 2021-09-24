@@ -1,5 +1,5 @@
 1. At your webroot directory or htdocs create a folder "kumutest" and extract all the codes into this folder
-2. Setup the Mysql database, please find the KUMUTEST_DATABASE.sql at the root directory
+2. Setup the Mysql database, please find the KUMUTEST_DATABASE.sql at the root directory of the application
 3. You may open .env file to facilatate the application database access
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
